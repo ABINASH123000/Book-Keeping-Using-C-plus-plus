@@ -1,0 +1,100 @@
+J.K. Rowling|Harry Potter and the Philosopher's Stone|Bloomsbury|5|15.99
+George Orwell|1984|Penguin Books|8|12.50
+George Orwell|Animal Farm|Penguin Books|6|10.99
+J.R.R. Tolkien|The Hobbit|Allen & Unwin|4|18.75
+J.R.R. Tolkien|The Lord of the Rings|Allen & Unwin|3|25.50
+F. Scott Fitzgerald|The Great Gatsby|Scribner|7|11.99
+Harper Lee|To Kill a Mockingbird|J.B. Lippincott|5|14.25
+Jane Austen|Pride and Prejudice|T. Egerton|9|9.99
+Jane Austen|Sense and Sensibility|Thomas Egerton|6|10.50
+Mark Twain|The Adventures of Tom Sawyer|American Publishing|4|12.75
+Mark Twain|Adventures of Huckleberry Finn|Chatto & Windus|5|13.50
+Charles Dickens|A Tale of Two Cities|Chapman & Hall|7|15.25
+Charles Dickens|Great Expectations|Chapman & Hall|6|16.99
+Charles Dickens|Oliver Twist|Richard Bentley|4|14.75
+Leo Tolstoy|War and Peace|The Russian Messenger|3|29.99
+Leo Tolstoy|Anna Karenina|The Russian Messenger|5|24.50
+Fyodor Dostoevsky|Crime and Punishment|The Russian Messenger|4|19.99
+Fyodor Dostoevsky|The Brothers Karamazov|The Russian Messenger|3|22.75
+Ernest Hemingway|The Old Man and the Sea|Charles Scribner's Sons|6|13.99
+Ernest Hemingway|A Farewell to Arms|Scribner|5|17.50
+William Shakespeare|Hamlet|Penguin Classics|8|8.99
+William Shakespeare|Macbeth|Penguin Classics|7|8.50
+William Shakespeare|Romeo and Juliet|Penguin Classics|9|9.25
+William Shakespeare|Othello|Penguin Classics|6|9.75
+Herman Melville|Moby-Dick|Harper & Brothers|4|21.99
+Victor Hugo|Les Miserables|A. Lacroix|3|27.50
+Victor Hugo|The Hunchback of Notre-Dame|Gosselin|5|18.25
+Alexandre Dumas|The Count of Monte Cristo|Penguin Classics|4|23.99
+Alexandre Dumas|The Three Musketeers|Penguin Classics|6|17.99
+Oscar Wilde|The Picture of Dorian Gray|Ward Lock|7|12.99
+Oscar Wilde|The Importance of Being Earnest|Leonard Smithers|5|9.50
+Bram Stoker|Dracula|Archibald Constable|6|14.99
+Mary Shelley|Frankenstein|Lackington|8|13.25
+Robert Louis Stevenson|Treasure Island|Cassell|5|12.50
+Robert Louis Stevenson|Dr Jekyll and Mr Hyde|Longmans|7|11.75
+Lewis Carroll|Alice's Adventures in Wonderland|Macmillan|6|10.99
+Arthur Conan Doyle|The Hound of the Baskervilles|George Newnes|4|15.50
+Arthur Conan Doyle|A Study in Scarlet|Ward Lock|5|13.99
+Agatha Christie|Murder on the Orient Express|Collins Crime Club|8|16.99
+Agatha Christie|And Then There Were None|Collins Crime Club|7|15.75
+Agatha Christie|The Murder of Roger Ackroyd|William Collins|5|14.50
+Dan Brown|The Da Vinci Code|Doubleday|6|19.99
+Dan Brown|Angels & Demons|Pocket Books|4|18.50
+J.K. Rowling|Harry Potter and the Chamber of Secrets|Bloomsbury|5|16.25
+J.K. Rowling|Harry Potter and the Prisoner of Azkaban|Bloomsbury|6|17.50
+J.K. Rowling|Harry Potter and the Goblet of Fire|Bloomsbury|4|18.99
+J.K. Rowling|Harry Potter and the Order of the Phoenix|Bloomsbury|3|21.50
+J.K. Rowling|Harry Potter and the Half-Blood Prince|Bloomsbury|5|20.99
+J.K. Rowling|Harry Potter and the Deathly Hallows|Bloomsbury|4|22.99
+Stephen King|The Shining|Doubleday|6|18.75
+Stephen King|It|Viking Press|3|24.99
+Stephen King|Misery|Viking Press|5|16.50
+Stephen King|Pet Sematary|Doubleday|4|17.25
+Paulo Coelho|The Alchemist|HarperOne|7|13.99
+Paulo Coelho|Brida|HarperCollins|5|12.50
+Khaled Hosseini|The Kite Runner|Riverhead Books|6|15.99
+Khaled Hosseini|A Thousand Splendid Suns|Riverhead Books|4|17.99
+Khaled Hosseini|And the Mountains Echoed|Riverhead Books|3|18.50
+Suzanne Collins|The Hunger Games|Scholastic Press|7|14.99
+Suzanne Collins|Catching Fire|Scholastic Press|6|15.50
+Suzanne Collins|Mockingjay|Scholastic Press|5|16.25
+Veronica Roth|Divergent|Katherine Tegen Books|8|14.50
+Veronica Roth|Insurgent|Katherine Tegen Books|6|15.25
+Veronica Roth|Allegiant|Katherine Tegen Books|5|16.50
+C.S. Lewis|The Lion, the Witch and the Wardrobe|Geoffrey Bles|7|11.99
+C.S. Lewis|Prince Caspian|Geoffrey Bles|5|11.50
+C.S. Lewis|The Voyage of the Dawn Treader|Geoffrey Bles|6|12.25
+C.S. Lewis|The Silver Chair|Geoffrey Bles|4|12.50
+C.S. Lewis|The Last Battle|The Bodley Head|5|13.99
+Rick Riordan|Percy Jackson and the Lightning Thief|Disney Hyperion|7|14.99
+Rick Riordan|The Sea of Monsters|Disney Hyperion|6|15.25
+Rick Riordan|The Titan's Curse|Disney Hyperion|5|15.50
+Rick Riordan|The Battle of the Labyrinth|Disney Hyperion|4|16.25
+Rick Riordan|The Last Olympian|Disney Hyperion|5|16.99
+Suzanne Collins|The Ballad of Songbirds and Snakes|Scholastic Press|3|19.99
+John Green|The Fault in Our Stars|Dutton Books|6|14.99
+John Green|Looking for Alaska|Dutton Books|5|13.50
+John Green|Paper Towns|Dutton Books|4|13.99
+Nicholas Sparks|The Notebook|Warner Books|7|14.50
+Nicholas Sparks|A Walk to Remember|Warner Books|6|12.99
+Nicholas Sparks|The Last Song|Grand Central Publishing|5|15.99
+Stephenie Meyer|Twilight|Little, Brown|8|14.99
+Stephenie Meyer|New Moon|Little, Brown|6|15.25
+Stephenie Meyer|Eclipse|Little, Brown|5|16.50
+Stephenie Meyer|Breaking Dawn|Little, Brown|4|18.99
+R.L. Stine|Goosebumps|Scholastic|7|8.99
+R.L. Stine|Night of the Living Dummy|Scholastic|6|9.50
+R.L. Stine|The Haunted Mask|Scholastic|5|9.75
+Neil Gaiman|American Gods|William Morrow|4|19.99
+Neil Gaiman|Coraline|Bloomsbury|6|12.99
+Neil Gaiman|The Graveyard Book|HarperCollins|5|14.50
+Brandon Sanderson|Mistborn|Tor Books|7|18.99
+Brandon Sanderson|The Way of Kings|Tor Books|4|25.99
+Brandon Sanderson|Words of Radiance|Tor Books|3|27.50
+George R.R. Martin|A Game of Thrones|Bantam Books|6|21.99
+George R.R. Martin|A Clash of Kings|Bantam Books|5|22.50
+George R.R. Martin|A Storm of Swords|Bantam Books|4|23.99
+George R.R. Martin|A Feast for Crows|Bantam Books|5|22.99
+George R.R. Martin|A Dance with Dragons|Bantam Books|3|24.50
+Haruki Murakami|Norwegian Wood|Kodansha|6|17.99
